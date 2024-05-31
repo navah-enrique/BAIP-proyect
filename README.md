@@ -1,5 +1,4 @@
-# Building AI Products
-# Final Project
+# Building AI Products - Final Project
 
 ## NPS survey "chat with your data" application
 
